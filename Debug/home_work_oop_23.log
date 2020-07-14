@@ -1,0 +1,7 @@
+﻿  Railway.cpp
+C:\Users\Kolotyuk\source\repos\home_work_oop_23\home_work_oop_23\Railway.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kolotyuk\source\repos\home_work_oop_23\home_work_oop_23\Railway.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kolotyuk\source\repos\home_work_oop_23\home_work_oop_23\Railway.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kolotyuk\source\repos\home_work_oop_23\home_work_oop_23\Railway.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kolotyuk\source\repos\home_work_oop_23\home_work_oop_23\Railway.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+  home_work_oop_23.vcxproj -> C:\Users\Kolotyuk\source\repos\home_work_oop_23\Debug\home_work_oop_23.exe
